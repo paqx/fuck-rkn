@@ -1,0 +1,6 @@
+[submodule "external/russia-mobile-internet-whitelist"]
+	path = external/russia-mobile-internet-whitelist
+	url = https://github.com/hxehex/russia-mobile-internet-whitelist.git
+[submodule "external/xray-configuration-guide"]
+	path = external/xray-configuration-guide
+	url = https://github.com/EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server.git

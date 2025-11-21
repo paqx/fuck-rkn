@@ -1,0 +1,2224 @@
+{
+  "sun6-22.userapi.com": {
+    "95.142.206.2": {
+      "cidr": "95.142.200.0/21",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "60476",
+      "asn_description": "MYCOM-AS, RU"
+    }
+  },
+  "pptest.userapi.com": {
+    "87.240.190.64": {
+      "cidr": "87.240.160.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    },
+    "87.240.129.187": {
+      "cidr": "87.240.128.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    }
+  },
+  "ps.userapi.com": {
+    "87.240.137.134": {
+      "cidr": "87.240.128.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    },
+    "87.240.137.140": {
+      "cidr": "87.240.128.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    },
+    "87.240.190.76": {
+      "cidr": "87.240.160.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    },
+    "87.240.190.89": {
+      "cidr": "87.240.160.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    }
+  },
+  "sun9-101.userapi.com": {
+    "87.240.190.64": {
+      "cidr": "87.240.160.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    },
+    "87.240.129.187": {
+      "cidr": "87.240.128.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    }
+  },
+  "travel.yandex.ru": {
+    "93.158.134.81": {
+      "cidr": "93.158.134.0/24",
+      "net_name": "YANDEX-93-158-134-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "yastatic.net": {
+    "37.9.64.225": {
+      "cidr": "37.9.64.0/24",
+      "net_name": "YANDEX-37-9-64-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "travel.yastatic.net": {
+    "37.9.64.225": {
+      "cidr": "37.9.64.0/24",
+      "net_name": "YANDEX-37-9-64-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "top-fwz1.mail.ru": {
+    "95.163.52.67": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "marketing.trvl.yandex.net": {
+    "213.180.204.188": {
+      "cidr": "213.180.204.0/24",
+      "net_name": "YANDEX-213-180-204-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "privacy-cs.mail.ru": {
+    "90.156.232.15": {}
+  },
+  "avatars.mds.yandex.net": {
+    "87.250.247.182": {
+      "cidr": "87.250.247.0/24",
+      "net_name": "YANDEX-87-250-247-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    },
+    "87.250.247.181": {
+      "cidr": "87.250.247.0/24",
+      "net_name": "YANDEX-87-250-247-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    },
+    "87.250.247.183": {
+      "cidr": "87.250.247.0/24",
+      "net_name": "YANDEX-87-250-247-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "trk.mail.ru": {
+    "95.163.41.56": {
+      "cidr": "95.163.40.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "1l-api.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "r3.mail.ru": {
+    "90.156.232.15": {
+      "cidr": "90.156.232.0/21",
+      "net_name": "RU-NETBRIDGE-20061117",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "r.mradx.net": {
+    "95.163.52.80": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "stat.radar.imgsmail.ru": {
+    "95.163.59.237": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "counter.yadro.ru": {
+    "88.212.201.198": {
+      "cidr": "88.212.201.192/26",
+      "net_name": "RAXRU-NET3",
+      "country": "RU",
+      "asn": "39134",
+      "asn_description": "UNITEDNET, RU"
+    },
+    "88.212.201.204": {
+      "cidr": "88.212.201.192/26",
+      "net_name": "RAXRU-NET3",
+      "country": "RU",
+      "asn": "39134",
+      "asn_description": "UNITEDNET, RU"
+    },
+    "88.212.202.52": {
+      "cidr": "88.212.202.0/26",
+      "net_name": "RAXRU-NET2",
+      "country": "RU",
+      "asn": "39134",
+      "asn_description": "UNITEDNET, RU"
+    }
+  },
+  "account.mail.ru": {
+    "94.100.180.61": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.61": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "img.imgsmail.ru": {
+    "217.69.139.101": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "rs.mail.ru": {
+    "95.163.41.56": {
+      "cidr": "95.163.40.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "mail.ru": {
+    "89.221.239.1": {
+      "cidr": "89.221.228.0/22, 89.221.232.0/21",
+      "net_name": "RU-NETBRIDGE-20061011",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "185.180.201.1": {
+      "cidr": "185.180.200.0/22",
+      "net_name": "RU-NETBRIDGE-20161207",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "90.156.232.4": {
+      "cidr": "90.156.232.0/21",
+      "net_name": "RU-NETBRIDGE-20061117",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "mc.yandex.ru": {
+    "87.250.251.119": {
+      "cidr": "87.250.251.0/24",
+      "net_name": "YANDEX-87-250-251-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    },
+    "87.250.250.119": {
+      "cidr": "87.250.250.0/24",
+      "net_name": "YANDEX-87-250-250-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    },
+    "77.88.21.119": {
+      "cidr": "77.88.21.0/24",
+      "net_name": "YANDEX-77-88-21-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "cspreport.mail.ru": {
+    "95.163.50.32": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "home.imgsmail.ru": {
+    "91.231.134.1": {
+      "cidr": "91.231.132.0/22",
+      "net_name": "RU-NETBRIDGE",
+      "country": "RU",
+      "asn": "47541 47764",
+      "asn_description": null
+    }
+  },
+  "bs.yandex.ru": {
+    "87.250.250.90": {
+      "cidr": "87.250.250.0/24",
+      "net_name": "YANDEX-87-250-250-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    },
+    "77.88.21.90": {
+      "cidr": "77.88.21.0/24",
+      "net_name": "YANDEX-77-88-21-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    },
+    "213.180.193.90": {
+      "cidr": "213.180.193.0/24",
+      "net_name": "YANDEX-213-180-193-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    },
+    "213.180.204.90": {
+      "cidr": "213.180.204.0/24",
+      "net_name": "YANDEX-213-180-204-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    },
+    "93.158.134.90": {
+      "cidr": "93.158.134.0/24",
+      "net_name": "YANDEX-93-158-134-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "www.googletagmanager.com": {
+    "216.58.207.200": {
+      "cidr": "216.58.192.0/19",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    }
+  },
+  "xray.mail.ru": {
+    "95.163.59.206": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "ad.mail.ru": {
+    "95.163.41.56": {
+      "cidr": "95.163.40.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "imgs2.imgsmail.ru": {
+    "91.231.134.1": {
+      "cidr": "91.231.132.0/22",
+      "net_name": "RU-NETBRIDGE",
+      "country": "RU",
+      "asn": "47541 47764",
+      "asn_description": null
+    }
+  },
+  "limg.imgsmail.ru": {
+    "89.221.239.1": {
+      "cidr": "89.221.228.0/22, 89.221.232.0/21",
+      "net_name": "RU-NETBRIDGE-20061011",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "185.180.201.1": {
+      "cidr": "185.180.200.0/22",
+      "net_name": "RU-NETBRIDGE-20161207",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "90.156.232.4": {
+      "cidr": "90.156.232.0/21",
+      "net_name": "RU-NETBRIDGE-20061117",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "yandex.ru": {
+    "77.88.44.55": {
+      "cidr": "77.88.44.0/24",
+      "net_name": "YANDEX-77-88-44-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    },
+    "77.88.55.88": {
+      "cidr": "77.88.55.0/24",
+      "net_name": "YANDEX-77-88-55-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    },
+    "5.255.255.77": {
+      "cidr": "5.255.255.0/24",
+      "net_name": "YANDEX-5-255-255-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "an.mail.ru": {
+    "95.163.41.56": {
+      "cidr": "95.163.40.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "portal.mail.ru": {
+    "94.100.180.59": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.58": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.59": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "reklama.mail.ru": {
+    "95.163.41.56": {
+      "cidr": "95.163.40.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "b2.mail.ru": {
+    "95.163.41.56": {
+      "cidr": "95.163.40.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "login.vk.ru": {
+    "93.186.237.1": {
+      "cidr": "93.186.232.0/21",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    },
+    "95.213.56.1": {
+      "cidr": "95.213.34.0/23, 95.213.36.0/22, 95.213.40.0/21, 95.213.48.0/20",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    }
+  },
+  "m.47news.ru": {
+    "185.65.149.156": {
+      "cidr": "185.65.149.156/32",
+      "net_name": "QRATOR-14151",
+      "country": "RU",
+      "asn": "51115",
+      "asn_description": null
+    }
+  },
+  "i.47news.ru": {
+    "77.244.221.63": {
+      "cidr": "77.244.221.0/24",
+      "net_name": "SELECTEL-NET",
+      "country": "RU",
+      "asn": "49505",
+      "asn_description": "SELECTEL, RU"
+    }
+  },
+  "kraken.rambler.ru": {
+    "94.139.255.28": {
+      "cidr": "94.139.252.0/22",
+      "net_name": "RU-CLOUDRU-20081127",
+      "country": "RU",
+      "asn": "208677",
+      "asn_description": "CLOUDRU-AS, RU"
+    }
+  },
+  "ssp.24smi.net": {
+    "212.41.11.107": {
+      "cidr": "212.41.11.0/24",
+      "net_name": "SELECTEL-NET",
+      "country": "RU",
+      "asn": "50340",
+      "asn_description": "SELECTEL-MSK, RU"
+    },
+    "87.228.57.56": {
+      "cidr": "87.228.57.0/24",
+      "net_name": "SELECTEL-NET",
+      "country": "RU",
+      "asn": "49505",
+      "asn_description": "SELECTEL, RU"
+    }
+  },
+  "47news.ru": {
+    "185.65.149.156": {
+      "cidr": "185.65.149.156/32",
+      "net_name": "QRATOR-14151",
+      "country": "RU",
+      "asn": "51115",
+      "asn_description": null
+    }
+  },
+  "cdn.tds.bid": {
+    "94.131.81.186": {
+      "cidr": "94.131.80.0/20",
+      "net_name": "KZ-YANDEXCLOUD-20080623",
+      "country": "KZ",
+      "asn": "208795",
+      "asn_description": "YANDEXCLOUD, KZ"
+    }
+  },
+  "cnt.rambler.ru": {
+    "188.72.107.25": {
+      "cidr": "188.72.106.0/23, 188.72.108.0/23",
+      "net_name": "RU-CLOUDRU-20090709",
+      "country": "RU",
+      "asn": "208677",
+      "asn_description": "CLOUDRU-AS, RU"
+    }
+  },
+  "tech.tds.bid": {
+    "91.147.107.94": {
+      "cidr": "91.147.104.0/22",
+      "net_name": "KZ-PS-20061027",
+      "country": "KZ",
+      "asn": "48716",
+      "asn_description": "PSKZ-ALA, KZ"
+    }
+  },
+  "sentry.sca.ad-tech.ru": {
+    "188.72.108.124": {
+      "cidr": "188.72.106.0/23, 188.72.108.0/23",
+      "net_name": "RU-CLOUDRU-20090709",
+      "country": "RU",
+      "asn": "208677",
+      "asn_description": "CLOUDRU-AS, RU"
+    }
+  },
+  "st.top100.ru": {
+    "91.240.169.232": {
+      "cidr": "91.240.168.0/22",
+      "net_name": "CDNvideo-net",
+      "country": "RU",
+      "asn": "57363",
+      "asn_description": "CDNVIDEO-AS, RU"
+    }
+  },
+  "matchid.adfox.yandex.ru": {
+    "93.158.134.118": {
+      "cidr": "93.158.134.0/24",
+      "net_name": "YANDEX-93-158-134-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "event.top100.su": {
+    "188.72.107.25": {
+      "cidr": "188.72.106.0/23, 188.72.108.0/23",
+      "net_name": "RU-CLOUDRU-20090709",
+      "country": "RU",
+      "asn": "208677",
+      "asn_description": "CLOUDRU-AS, RU"
+    }
+  },
+  "www.47news.ru": {
+    "185.65.149.156": {
+      "cidr": "185.65.149.156/32",
+      "net_name": "QRATOR-14151",
+      "country": "RU",
+      "asn": "51115",
+      "asn_description": null
+    }
+  },
+  "crowdtest.payment-widget-smarttv.plus.tst.kinopoisk.ru": {
+    "93.158.134.59": {
+      "cidr": "93.158.134.0/24",
+      "net_name": "YANDEX-93-158-134-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "passport.yandex-team.ru": {
+    "213.180.193.24": {
+      "cidr": "213.180.193.0/24",
+      "net_name": "YANDEX-213-180-193-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "oauth.yandex-team.ru": {
+    "87.250.250.24": {
+      "cidr": "87.250.250.0/24",
+      "net_name": "YANDEX-87-250-250-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "external-api.mediabilling.kinopoisk.ru": {
+    "87.250.251.48": {
+      "cidr": "87.250.251.0/24",
+      "net_name": "YANDEX-87-250-251-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "external-api.plus.kinopoisk.ru": {
+    "87.250.251.48": {
+      "cidr": "87.250.251.0/24",
+      "net_name": "YANDEX-87-250-251-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "graphql-web.kinopoisk.ru": {
+    "77.88.21.93": {
+      "cidr": "77.88.21.0/24",
+      "net_name": "YANDEX-77-88-21-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "graphql.kinopoisk.ru": {
+    "77.88.21.175": {
+      "cidr": "77.88.21.0/24",
+      "net_name": "YANDEX-77-88-21-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "1l.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "tickets.widget.kinopoisk.ru": {
+    "87.250.254.37": {
+      "cidr": "87.250.254.0/24",
+      "net_name": "YANDEX-87-250-254-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "st.kinopoisk.ru": {
+    "213.180.199.9": {
+      "cidr": "213.180.199.0/24",
+      "net_name": "YANDEX-213-180-199-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "quiz.kinopoisk.ru": {
+    "87.250.250.199": {
+      "cidr": "87.250.250.0/24",
+      "net_name": "YANDEX-87-250-250-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "widgets.kinopoisk.ru": {
+    "87.250.250.199": {
+      "cidr": "87.250.250.0/24",
+      "net_name": "YANDEX-87-250-250-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "www.kinopoisk.ru": {
+    "213.180.199.9": {
+      "cidr": "213.180.199.0/24",
+      "net_name": "YANDEX-213-180-199-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "mc.kinopoisk.ru": {
+    "213.180.199.9": {
+      "cidr": "213.180.199.0/24",
+      "net_name": "YANDEX-213-180-199-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "sso.passport.yandex.ru": {
+    "93.158.134.144": {
+      "cidr": "93.158.134.0/24",
+      "net_name": "YANDEX-93-158-134-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "browser-updater.yandex.net": {
+    "93.158.134.121": {
+      "cidr": "93.158.134.0/24",
+      "net_name": "YANDEX-93-158-134-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "sso.kinopoisk.ru": {
+    "93.158.134.144": {
+      "cidr": "93.158.134.0/24",
+      "net_name": "YANDEX-93-158-134-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "payment-widget.kinopoisk.ru": {
+    "87.250.250.136": {
+      "cidr": "87.250.250.0/24",
+      "net_name": "YANDEX-87-250-250-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "static-resolver-prod.s3.yandex.net": {
+    "93.158.134.158": {
+      "cidr": "93.158.134.0/24",
+      "net_name": "YANDEX-93-158-134-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "payment-widget-smarttv.plus.kinopoisk.ru": {
+    "87.250.251.118": {
+      "cidr": "87.250.251.0/24",
+      "net_name": "YANDEX-87-250-251-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "oneclick-payment.kinopoisk.ru": {
+    "93.158.134.2": {
+      "cidr": "93.158.134.0/24",
+      "net_name": "YANDEX-93-158-134-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "csp.yandex.net": {
+    "87.250.250.104": {
+      "cidr": "87.250.250.0/24",
+      "net_name": "YANDEX-87-250-250-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "microapps.kinopoisk.ru": {
+    "87.250.250.199": {
+      "cidr": "87.250.250.0/24",
+      "net_name": "YANDEX-87-250-250-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "ma.kinopoisk.ru": {
+    "87.250.254.53": {
+      "cidr": "87.250.254.0/24",
+      "net_name": "YANDEX-87-250-254-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "hd.kinopoisk.ru": {
+    "213.180.199.9": {
+      "cidr": "213.180.199.0/24",
+      "net_name": "YANDEX-213-180-199-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "adfstat.yandex.ru": {
+    "87.250.250.145": {
+      "cidr": "87.250.250.0/24",
+      "net_name": "YANDEX-87-250-250-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "cdnrhkgfkkpupuotntfj.svc.cdn.yandex.net": {
+    "37.9.64.225": {
+      "cidr": "37.9.64.0/24",
+      "net_name": "YANDEX-37-9-64-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "captcha-backgrounds.s3.yandex.net": {
+    "93.158.134.158": {
+      "cidr": "93.158.134.0/24",
+      "net_name": "YANDEX-93-158-134-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "crowdtest.payment-widget.plus.tst.kinopoisk.ru": {
+    "93.158.134.59": {
+      "cidr": "93.158.134.0/24",
+      "net_name": "YANDEX-93-158-134-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "api.plus.kinopoisk.ru": {
+    "87.250.250.204": {
+      "cidr": "87.250.250.0/24",
+      "net_name": "YANDEX-87-250-250-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "st-im.kinopoisk.ru": {
+    "213.180.199.9": {
+      "cidr": "213.180.199.0/24",
+      "net_name": "YANDEX-213-180-199-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "1l-s2s.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "touch.kinopoisk.ru": {
+    "213.180.199.9": {
+      "cidr": "213.180.199.0/24",
+      "net_name": "YANDEX-213-180-199-0",
+      "country": "RU",
+      "asn": "13238 208398",
+      "asn_description": null
+    }
+  },
+  "1l-view.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "1link.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "1l-hit.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "2021.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "2018.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "23feb.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "2019.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "2020.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "1l-go.mail.ru": {
+    "95.163.61.66": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "8mar.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "9may.mail.ru": {
+    "185.130.115.50": {
+      "cidr": "185.130.114.0/23",
+      "net_name": "VKCS",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "www.tns-counter.ru": {
+    "194.226.130.229": {
+      "cidr": "194.226.130.0/23",
+      "net_name": "ADFACT",
+      "country": "RU",
+      "asn": "52016",
+      "asn_description": "ADFACT, RU"
+    },
+    "194.226.130.226": {
+      "cidr": "194.226.130.0/23",
+      "net_name": "ADFACT",
+      "country": "RU",
+      "asn": "52016",
+      "asn_description": "ADFACT, RU"
+    },
+    "194.226.130.227": {
+      "cidr": "194.226.130.0/23",
+      "net_name": "ADFACT",
+      "country": "RU",
+      "asn": "52016",
+      "asn_description": "ADFACT, RU"
+    },
+    "194.226.130.228": {
+      "cidr": "194.226.130.0/23",
+      "net_name": "ADFACT",
+      "country": "RU",
+      "asn": "52016",
+      "asn_description": "ADFACT, RU"
+    }
+  },
+  "js.imgsmail.ru": {
+    "217.69.139.101": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "region1.google-analytics.com": {
+    "216.239.32.36": {
+      "cidr": "216.239.32.0/19",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    },
+    "216.239.34.36": {
+      "cidr": "216.239.32.0/19",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    }
+  },
+  "cloud.mail.ru": {
+    "95.163.48.30": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "cloud.imgsmail.ru": {
+    "91.231.134.1": {
+      "cidr": "91.231.132.0/22",
+      "net_name": "RU-NETBRIDGE",
+      "country": "RU",
+      "asn": "47541 47764",
+      "asn_description": null
+    }
+  },
+  "aa.mail.ru": {
+    "195.211.131.161": {
+      "cidr": "195.211.128.0/22",
+      "net_name": "RU-ASTRUM",
+      "country": "RU",
+      "asn": "21051",
+      "asn_description": "NIVAL-AS, RU"
+    },
+    "195.211.131.162": {
+      "cidr": "195.211.128.0/22",
+      "net_name": "RU-ASTRUM",
+      "country": "RU",
+      "asn": "21051",
+      "asn_description": "NIVAL-AS, RU"
+    }
+  },
+  "archeage.ru": {
+    "92.38.244.81": {
+      "cidr": "92.38.244.0/22, 92.38.248.0/24",
+      "net_name": "ASTRUM",
+      "country": "RU",
+      "asn": "21051",
+      "asn_description": "NIVAL-AS, RU"
+    }
+  },
+  "8march.mail.ru": {
+    "185.130.115.50": {
+      "cidr": "185.130.114.0/23",
+      "net_name": "VKCS",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "www.google-analytics.com": {
+    "173.194.221.113": {
+      "cidr": "173.194.0.0/16",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    },
+    "173.194.221.100": {
+      "cidr": "173.194.0.0/16",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    },
+    "173.194.221.139": {
+      "cidr": "173.194.0.0/16",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    },
+    "173.194.221.138": {
+      "cidr": "173.194.0.0/16",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    },
+    "173.194.221.102": {
+      "cidr": "173.194.0.0/16",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    },
+    "173.194.221.101": {
+      "cidr": "173.194.0.0/16",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    }
+  },
+  "auth.mail.ru": {
+    "217.69.139.60": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "vk.com": {
+    "87.240.132.78": {
+      "cidr": "87.240.128.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    },
+    "87.240.137.164": {
+      "cidr": "87.240.128.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    },
+    "87.240.132.72": {
+      "cidr": "87.240.128.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    },
+    "87.240.129.133": {
+      "cidr": "87.240.128.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    },
+    "93.186.225.194": {
+      "cidr": "93.186.224.0/21",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    },
+    "87.240.132.67": {
+      "cidr": "87.240.128.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    }
+  },
+  "afisha.mail.ru": {
+    "95.163.61.112": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "mcdn.imgsmail.ru": {
+    "95.163.54.50": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "sb.scorecardresearch.com": {
+    "13.33.235.48": {
+      "cidr": "13.32.0.0/15",
+      "net_name": "AMAZO-CF",
+      "country": null,
+      "asn": "16509",
+      "asn_description": "AMAZON-02, US"
+    },
+    "13.33.235.91": {
+      "cidr": "13.32.0.0/15",
+      "net_name": "AMAZO-CF",
+      "country": null,
+      "asn": "16509",
+      "asn_description": "AMAZON-02, US"
+    },
+    "13.33.235.32": {
+      "cidr": "13.32.0.0/15",
+      "net_name": "AMAZO-CF",
+      "country": null,
+      "asn": "16509",
+      "asn_description": "AMAZON-02, US"
+    },
+    "13.33.235.15": {
+      "cidr": "13.32.0.0/15",
+      "net_name": "AMAZO-CF",
+      "country": null,
+      "asn": "16509",
+      "asn_description": "AMAZON-02, US"
+    }
+  },
+  "media-advcycle.imgsmail.ru": {
+    "89.221.236.28": {
+      "cidr": "89.221.228.0/22, 89.221.232.0/21",
+      "net_name": "RU-NETBRIDGE-20061011",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "kino.mail.ru": {
+    "95.163.61.112": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "resizer.mail.ru": {
+    "95.163.41.50": {
+      "cidr": "95.163.40.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "vkvd473.okcdn.ru": {
+    "185.226.53.217": {
+      "cidr": "185.226.52.0/23",
+      "net_name": "ODNOKLASSNIKI-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "videolink.okcdn.ru": {
+    "217.20.147.33": {
+      "cidr": "217.20.144.0/22",
+      "net_name": "ODNOKLASSNIKI-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.20.155.46": {
+      "cidr": "217.20.149.0/24, 217.20.150.0/23, 217.20.152.0/22, 217.20.156.0/23, 217.20.158.0/24",
+      "net_name": "ODNOKLASSNIKI-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.20.152.220": {
+      "cidr": "217.20.149.0/24, 217.20.150.0/23, 217.20.152.0/22, 217.20.156.0/23, 217.20.158.0/24",
+      "net_name": "ODNOKLASSNIKI-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "agent.mail.ru": {
+    "178.237.20.160": {
+      "cidr": "178.237.16.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "ok.ru": {
+    "217.20.155.13": {
+      "cidr": "217.20.149.0/24, 217.20.150.0/23, 217.20.152.0/22, 217.20.156.0/23, 217.20.158.0/24",
+      "net_name": "ODNOKLASSNIKI-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "5.61.23.11": {
+      "cidr": "5.61.20.0/22",
+      "net_name": "ODNOKLASSNIKI-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.20.147.1": {
+      "cidr": "217.20.144.0/22",
+      "net_name": "ODNOKLASSNIKI-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "amigo.mail.ru": {
+    "217.69.139.251": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "analytics.predict.mail.ru": {
+    "95.163.61.13": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "ifluence.vk.team": {
+    "95.163.61.70": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "predict.mail.ru": {
+    "95.163.61.13": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "alpha4.minigames.mail.ru": {
+    "95.163.58.55": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "alpha3.minigames.mail.ru": {
+    "95.163.58.54": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "answer.mail.ru": {
+    "95.163.61.106": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "otvet.cdn-vk.net": {
+    "91.231.134.1": {
+      "cidr": "91.231.132.0/22",
+      "net_name": "RU-NETBRIDGE",
+      "country": "RU",
+      "asn": "47541 47764",
+      "asn_description": null
+    }
+  },
+  "otvet-static.cdn-vk.net": {
+    "91.231.134.1": {
+      "cidr": "91.231.132.0/22",
+      "net_name": "RU-NETBRIDGE",
+      "country": "RU",
+      "asn": "47541 47764",
+      "asn_description": null
+    }
+  },
+  "otvet.mail.ru": {
+    "95.163.61.106": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "oauth.mail.ru": {
+    "94.100.180.61": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.61": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "otvet-front.cdn-vk.net": {
+    "91.231.134.1": {
+      "cidr": "91.231.132.0/22",
+      "net_name": "RU-NETBRIDGE",
+      "country": "RU",
+      "asn": "47541 47764",
+      "asn_description": null
+    }
+  },
+  "filin.mail.ru": {
+    "94.100.180.36": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "api.predict.mail.ru": {
+    "95.163.61.13": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "answers.mail.ru": {
+    "95.163.61.106": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "authdl.mail.ru": {
+    "95.163.61.51": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "av.mail.ru": {
+    "195.211.131.161": {
+      "cidr": "195.211.128.0/22",
+      "net_name": "RU-ASTRUM",
+      "country": "RU",
+      "asn": "21051",
+      "asn_description": "NIVAL-AS, RU"
+    },
+    "195.211.131.162": {
+      "cidr": "195.211.128.0/22",
+      "net_name": "RU-ASTRUM",
+      "country": "RU",
+      "asn": "21051",
+      "asn_description": "NIVAL-AS, RU"
+    }
+  },
+  "st1-93.vk.com": {
+    "95.142.204.187": {
+      "cidr": "95.142.200.0/21",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47542",
+      "asn_description": "VKONTAKTE-MSK-CDN-AS Moscow CDN vk.com, RU"
+    }
+  },
+  "sun1-85.userapi.com": {
+    "95.142.204.160": {
+      "cidr": "95.142.200.0/21",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47542",
+      "asn_description": "VKONTAKTE-MSK-CDN-AS Moscow CDN vk.com, RU"
+    }
+  },
+  "aw.mail.ru": {
+    "195.211.131.161": {
+      "cidr": "195.211.128.0/22",
+      "net_name": "RU-ASTRUM",
+      "country": "RU",
+      "asn": "21051",
+      "asn_description": "NIVAL-AS, RU"
+    },
+    "195.211.131.162": {
+      "cidr": "195.211.128.0/22",
+      "net_name": "RU-ASTRUM",
+      "country": "RU",
+      "asn": "21051",
+      "asn_description": "NIVAL-AS, RU"
+    }
+  },
+  "arwar.ru": {
+    "87.228.58.231": {
+      "cidr": "87.228.58.0/24",
+      "net_name": "SELECTEL-NET",
+      "country": "RU",
+      "asn": "49505",
+      "asn_description": "SELECTEL, RU"
+    }
+  },
+  "apps.research.mail.ru": {
+    "95.163.61.57": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "auto.mail.ru": {
+    "95.163.61.113": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "pic.auto.mail.ru": {
+    "95.163.61.113": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "portal-sentry-v2.vk.team": {
+    "95.163.61.23": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "bb.mail.ru": {
+    "195.211.131.161": {
+      "cidr": "195.211.128.0/22",
+      "net_name": "RU-ASTRUM",
+      "country": "RU",
+      "asn": "21051",
+      "asn_description": "NIVAL-AS, RU"
+    },
+    "195.211.131.162": {
+      "cidr": "195.211.128.0/22",
+      "net_name": "RU-ASTRUM",
+      "country": "RU",
+      "asn": "21051",
+      "asn_description": "NIVAL-AS, RU"
+    }
+  },
+  "bymz.ru": {
+    "92.38.244.144": {
+      "cidr": "92.38.244.0/22, 92.38.248.0/24",
+      "net_name": "ASTRUM",
+      "country": "RU",
+      "asn": "21051",
+      "asn_description": "NIVAL-AS, RU"
+    }
+  },
+  "bender.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "beko.dom.mail.ru": {
+    "95.163.61.2": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "azt.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "bd.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "autodiscover.corp.mail.ru": {
+    "176.112.173.134": {
+      "cidr": "176.112.168.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "beta.mail.ru": {
+    "95.163.59.188": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "fonts.googleapis.com": {
+    "142.251.38.106": {
+      "cidr": "142.250.0.0/15",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    }
+  },
+  "blog.mail.ru": {
+    "89.221.236.28": {
+      "cidr": "89.221.228.0/22, 89.221.232.0/21",
+      "net_name": "RU-NETBRIDGE-20061011",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "biz.mail.ru": {
+    "95.163.39.119": {
+      "cidr": "95.163.36.0/22",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "www.google.pl": {
+    "74.125.131.94": {
+      "cidr": "74.125.0.0/16",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    }
+  },
+  "biz-landings-static.hb.bizmrg.com": {
+    "95.163.53.117": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "vk.ru": {
+    "87.240.132.78": {
+      "cidr": "87.240.128.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    },
+    "87.240.137.164": {
+      "cidr": "87.240.128.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    },
+    "87.240.132.72": {
+      "cidr": "87.240.128.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    },
+    "87.240.129.133": {
+      "cidr": "87.240.128.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    },
+    "93.186.225.194": {
+      "cidr": "93.186.224.0/21",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    },
+    "87.240.132.67": {
+      "cidr": "87.240.128.0/19",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    }
+  },
+  "stats.g.doubleclick.net": {
+    "74.125.131.156": {
+      "cidr": "74.125.0.0/16",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    },
+    "74.125.131.154": {
+      "cidr": "74.125.0.0/16",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    },
+    "74.125.131.155": {
+      "cidr": "74.125.0.0/16",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    },
+    "74.125.131.157": {
+      "cidr": "74.125.0.0/16",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    }
+  },
+  "code.jivosite.com": {
+    "5.101.37.37": {
+      "cidr": "5.101.37.0/24",
+      "net_name": "EAM-CUSTOMER",
+      "country": "AM",
+      "asn": "201589",
+      "asn_description": "EDGEAMLLC, AM"
+    }
+  },
+  "www.google.com": {
+    "216.58.211.4": {
+      "cidr": "216.58.192.0/19",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    }
+  },
+  "www.gstatic.com": {
+    "142.250.74.131": {
+      "cidr": "142.250.0.0/15",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    }
+  },
+  "blackfriday.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "bitva.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "bratva-mr.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "browser.mail.ru": {
+    "217.69.139.251": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "browser.ru": {
+    "217.69.138.41": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "calendar.mail.ru": {
+    "95.163.58.33": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "planner.mail.ru": {
+    "95.163.59.188": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "capsula.mail.ru": {
+    "95.163.61.118": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "st.hybrid.ai": {
+    "79.127.216.204": {
+      "cidr": "79.127.216.0/24",
+      "net_name": "CDN77-FRA",
+      "country": "DE",
+      "asn": "60068",
+      "asn_description": "CDN77 _, GB"
+    },
+    "195.181.175.41": {
+      "cidr": "195.181.174.0/23",
+      "net_name": "CDN77-FRANKFURT",
+      "country": "DE",
+      "asn": "60068",
+      "asn_description": "CDN77 _, GB"
+    },
+    "37.19.194.80": {
+      "cidr": "37.19.194.0/24",
+      "net_name": "CDN77-FRA",
+      "country": "DE",
+      "asn": "60068",
+      "asn_description": "CDN77 _, GB"
+    },
+    "79.127.211.89": {
+      "cidr": "79.127.211.0/24",
+      "net_name": "CDN77-FRA",
+      "country": "DE",
+      "asn": "60068",
+      "asn_description": "CDN77 _, GB"
+    },
+    "212.102.56.178": {
+      "cidr": "212.102.56.0/23",
+      "net_name": "CDNEXT-FRA",
+      "country": "DE",
+      "asn": "60068",
+      "asn_description": "CDN77 _, GB"
+    },
+    "195.181.170.19": {
+      "cidr": "195.181.170.0/24",
+      "net_name": "CDN77-FRA",
+      "country": "DE",
+      "asn": "60068",
+      "asn_description": "CDN77 _, GB"
+    }
+  },
+  "marusia.vk.com": {
+    "176.112.169.80": {
+      "cidr": "176.112.168.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "login.vk.com": {
+    "93.186.237.1": {
+      "cidr": "93.186.232.0/21",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    },
+    "95.213.56.1": {
+      "cidr": "95.213.34.0/23, 95.213.36.0/22, 95.213.40.0/21, 95.213.48.0/20",
+      "net_name": "VKONTAKTE-FRONT",
+      "country": "RU",
+      "asn": "47541",
+      "asn_description": "VKONTAKTE-SPB-AS vk.com, RU"
+    }
+  },
+  "cdn.newyear.mail.ru": {},
+  "cars.mail.ru": {
+    "95.163.61.113": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "code.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "cobmo.mail.ru": {
+    "95.163.61.121": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "region1.analytics.google.com": {
+    "216.239.32.36": {
+      "cidr": "216.239.32.0/19",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    },
+    "216.239.34.36": {
+      "cidr": "216.239.32.0/19",
+      "net_name": "GOOGLE",
+      "country": null,
+      "asn": "15169",
+      "asn_description": "GOOGLE, US"
+    }
+  },
+  "vkcombo.ru": {
+    "95.163.61.121": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "cobma.mail.ru": {
+    "95.163.61.121": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "cog.mail.ru": {
+    "94.100.180.87": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    },
+    "217.69.139.87": {
+      "cidr": "217.69.136.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "cdn.connect.mail.ru": {
+    "94.100.180.100": {
+      "cidr": "94.100.176.0/21",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  },
+  "cf.mail.ru": {
+    "195.211.131.161": {
+      "cidr": "195.211.128.0/22",
+      "net_name": "RU-ASTRUM",
+      "country": "RU",
+      "asn": "21051",
+      "asn_description": "NIVAL-AS, RU"
+    },
+    "195.211.131.162": {
+      "cidr": "195.211.128.0/22",
+      "net_name": "RU-ASTRUM",
+      "country": "RU",
+      "asn": "21051",
+      "asn_description": "NIVAL-AS, RU"
+    }
+  },
+  "battleteams2.ru": {
+    "92.38.244.150": {
+      "cidr": "92.38.244.0/22, 92.38.248.0/24",
+      "net_name": "ASTRUM",
+      "country": "RU",
+      "asn": "21051",
+      "asn_description": "NIVAL-AS, RU"
+    }
+  },
+  "comba.mail.ru": {
+    "95.163.61.121": {
+      "cidr": "95.163.48.0/20",
+      "net_name": "VK-FRONT",
+      "country": "RU",
+      "asn": "47764",
+      "asn_description": null
+    }
+  }
+}
