@@ -1,14 +1,14 @@
-from dns import resolver
-from urllib.parse import urlparse
-from ipwhois import IPWhois
 import json
+import logging
+import os
+
+from urllib.parse import urlparse
 from playwright.sync_api import (
     sync_playwright,
     TimeoutError as PlaywrightTimeoutError
 )
-import logging
-import os
-
+from dns import resolver
+from ipwhois import IPWhois
 
 logging.basicConfig(
     level=logging.INFO,
@@ -18,15 +18,18 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
-
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
 WHITELIST_PATH = os.path.join(
     SCRIPT_DIR, '../../',
-    'external/russia-mobile-internet-whitelist/whitelist.txt')
+    'external/russia-mobile-internet-whitelist/whitelist.txt'
+)
 OUTPUT_PATH = os.path.join(SCRIPT_DIR, '../../etc/ipscan/cidrs.json')
 
 
 def resolve_domain_to_ips(domain):
+    """
+    Resolve a domain to its associated IP addresses.
+    """
     logger.info("Resolving: %s", domain)
     ips = set()
 
@@ -40,6 +43,9 @@ def resolve_domain_to_ips(domain):
 
 
 def get_cidr_info(ip):
+    """
+    Get CIDR information for a specific IP address.
+    """
     logger.info("Getting CIDR info: %s", ip)
 
     try:
@@ -59,6 +65,10 @@ def get_cidr_info(ip):
 
 
 def get_domain_info(domain):
+    """
+    Get information for a domain, including associated IPs and their CIDR 
+    information.
+    """
     ips = resolve_domain_to_ips(domain)
     result = {}
 
@@ -70,6 +80,10 @@ def get_domain_info(domain):
 
 
 def collect_domains_with_browser(url, max_time=15000):
+    """
+    Use Playwright to open a URL and collect domains observed during navigation 
+    requests.
+    """
     domains = set()
     logger.info("Playwright: opening %s", url)
 
@@ -118,7 +132,8 @@ def collect_domains_with_browser(url, max_time=15000):
                 logger.warning("Playwright timeout for %s: %r", url, e)
             except Exception as e:
                 logger.warning(
-                    "Playwright error during goto for %s: %r", url, e)
+                    "Playwright error during goto for %s: %r", url, e
+                )
 
             try:
                 page.wait_for_timeout(2000)
@@ -135,6 +150,7 @@ def collect_domains_with_browser(url, max_time=15000):
 
 
 def main():
+    """Main function to process domains and update the CIDR information."""
     domains_cidrs = {}
 
     if os.path.exists(OUTPUT_PATH):
