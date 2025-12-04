@@ -1,0 +1,56 @@
+{
+    "log": {
+        "loglevel": "debug"
+    },
+    "inbounds": [
+        {
+            "listen": "0.0.0.0",
+            "port": 2080,
+            "protocol": "socks",
+            "settings": {
+                "udp": true
+            },
+            "sniffing": {
+                "enabled": true,
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "routeOnly": true
+            }
+        }
+    ],
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "51.250.73.123",
+                        "port": 443,
+                        "users": [
+                            {
+                                "id": "25940f7d-4695-8d1d-5a21-7a928c4888f0",
+                                "encryption": "none",
+                                "flow": "xtls-rprx-vision"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "security": "reality",
+                "realitySettings": {
+                    "fingerprint": "chrome",
+                    "serverName": "disk.2gis.com",
+                    "publicKey": "lxZcaMWakri9-Xs4MjgrHn1xVO5Z6C1VyYbUvxIUsVw",
+                    "spiderX": "/",
+                    "shortId": "a1b2c3d4e5f6a1b2"
+                }
+            },
+            "tag": "proxy"
+        }
+    ]
+}

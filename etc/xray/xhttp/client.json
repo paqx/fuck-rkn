@@ -1,0 +1,65 @@
+{
+    "log": {
+        "loglevel": "debug"
+    },
+    "routing": {
+        "rules": [
+            {
+                "ip": [
+                    "geoip:private"
+                ],
+                "outboundTag": "direct"
+            }
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "0.0.0.0",
+            "port": 2080,
+            "protocol": "socks"
+        }
+    ],
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "51.250.73.123",
+                        "port": 443,
+                        "users": [
+                            {
+                                "id": "25940f7d-4695-8d1d-5a21-7a928c4888f0",
+                                "encryption": "none",
+                                "flow": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "xhttp",
+                "xhttpSettings": {
+                    "path": "/"
+                },
+                "security": "reality",
+                "realitySettings": {
+                    "serverName": "disk.2gis.com",
+                    "publicKey": "lxZcaMWakri9-Xs4MjgrHn1xVO5Z6C1VyYbUvxIUsVw",
+                    "shortId": "a1b2c3d4e5f6a1b2",
+                    "spiderX": "/",
+                    "fingerprint": "chrome"
+                }
+            },
+            "tag": "proxy"
+        },
+        {
+            "protocol": "freedom",
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "tag": "block"
+        }
+    ]
+}

@@ -1,6 +1,7 @@
 import json
 import logging
 import os
+import ipaddress
 
 from urllib.parse import urlparse
 from playwright.sync_api import (
@@ -17,6 +18,7 @@ logging.basicConfig(
 )
 
 logger = logging.getLogger(__name__)
+_asn_cache = []
 
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
 WHITELIST_PATH = os.path.join(
@@ -24,6 +26,28 @@ WHITELIST_PATH = os.path.join(
     'external/russia-mobile-internet-whitelist/whitelist.txt'
 )
 OUTPUT_PATH = os.path.join(SCRIPT_DIR, '../../etc/ipscan/cidrs.json')
+
+
+def _build_asn_cache():
+    asn_ip_dir = os.path.join(SCRIPT_DIR, '../../external/asn-ip/as')
+    as_dirs = [f.path for f in os.scandir(asn_ip_dir) if f.is_dir()]
+
+    for as_dir in as_dirs:
+        aggregated_file = os.path.join(as_dir, "aggregated.json")
+
+        with open(aggregated_file, 'r', encoding='utf-8') as f:
+            asn_data = json.load(f)
+
+            for subnet in asn_data['subnets']['ipv4']:
+                network = ipaddress.IPv4Network(subnet)
+
+                _asn_cache.append({
+                    'cidr': network,
+                    'net_name': asn_data.get('handle', ''),
+                    'country': '',
+                    'asn': asn_data.get('asn', ''),
+                    'asn_description': asn_data.get('description', ''),
+                })
 
 
 def resolve_domain_to_ips(domain):
@@ -42,9 +66,36 @@ def resolve_domain_to_ips(domain):
     return ips
 
 
-def get_cidr_info(ip):
+def get_cidr_info_from_files(ip):
     """
-    Get CIDR information for a specific IP address.
+    Get CIDR information for a specific IP address from files.
+    """
+    logger.info("Getting CIDR info: %s", ip)
+
+    try:
+        if not _asn_cache:
+            _build_asn_cache()
+
+        ip = ipaddress.ip_address(ip)
+
+        for asn_data in _asn_cache:
+            if ip in asn_data['cidr']:
+                return {
+                    "cidr": str(asn_data['cidr']),
+                    "net_name": asn_data['net_name'],
+                    'country': '',
+                    "asn": str(asn_data['asn']),
+                    "asn_description": asn_data['asn_description'],
+                }
+        logger.warning("No CIDR info for %s", str(ip))
+    except Exception as e:
+        logger.error("Failed to get CIDR info for %s. Error: %r", ip, e)
+    return {}
+
+
+def get_cidr_info_from_whois(ip):
+    """
+    Get CIDR information for a specific IP address via whois.
     """
     logger.info("Getting CIDR info: %s", ip)
 
@@ -74,7 +125,7 @@ def get_domain_info(domain):
 
     if ips:
         for ip in ips:
-            result[ip] = get_cidr_info(ip)
+            result[ip] = get_cidr_info_from_files(ip)
 
     return result
 

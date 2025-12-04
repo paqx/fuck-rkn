@@ -4,3 +4,9 @@
 [submodule "external/xray-configuration-guide"]
 	path = external/xray-configuration-guide
 	url = https://github.com/EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server.git
+[submodule "external/asn-ip"]
+	path = external/asn-ip
+	url = https://github.com/ipverse/asn-ip.git
+[submodule "external/xray-examples"]
+	path = external/xray-examples
+	url = https://github.com/XTLS/Xray-examples.git

@@ -1,0 +1,9 @@
+CIDR: 51.250.0.0/17 RU-YANDEXCLOUD - Билайн, ТМоб, МТС, Yota, Мегафон, Т2
+CIDR: 158.160.0.0/17 RU-YANDEXCLOUD - T2
+CIDR: 217.16.24.0/21 VKCS - МТС, Т2
+CIDR: 185.39.206.0/24 TW-Cloud (TimeWeb Тут хостится 86 канал 86channel.ru) - Т2
+CIDR: 95.163.248.0/22 VKCS (Digital Networks (MSM)) - Билайн, ТМоб, МТС, Yota, Мегафон, Т2
+CIDR: 91.222.239.0/24 TW-Cloud (TimeWeb) - Билайн, ТМоб
+VK Cloud - 95.163.x.x
+CDNVideo - 151.236.x.x (91.240.x.x)
+Яндекс клауд - 84.201.x.x

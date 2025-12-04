@@ -1,0 +1,56 @@
+{
+    "log": {
+        "loglevel": "debug"
+    },
+    "inbounds": [
+        {
+            "listen": "0.0.0.0",
+            "port": 443,
+            "protocol": "vless",
+            "settings": {
+                "clients": [
+                    {
+                        "id": "25940f7d-4695-8d1d-5a21-7a928c4888f0",
+                        "flow": ""
+                    }
+                ],
+                "decryption": "none"
+            },
+            "streamSettings": {
+                "network": "xhttp",
+                "xhttpSettings": {
+                    "path": "/"
+                },
+                "security": "reality",
+                "realitySettings": {
+                    "target": "disk.2gis.com:443",
+                    "serverNames": [
+                        "disk.2gis.com"
+                    ],
+                    "privateKey": "EC3suNdz8flY-95h_y7ZdKtL-KiDnbsk3bU9I0zO52U",
+                    "shortIds": [
+                        "a1b2c3d4e5f6a1b2"
+                    ]
+                }
+            },
+            "sniffing": {
+                "enabled": true,
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ]
+            }
+        }
+    ],
+    "outbounds": [
+        {
+            "protocol": "freedom",
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "tag": "block"
+        }
+    ]
+}

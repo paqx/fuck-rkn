@@ -1,0 +1,80 @@
+{
+    "log": {
+        "level": "debug"
+    },
+    "inbounds": [
+        {
+            "port": 9090,
+            "listen": "127.0.0.1",
+            "protocol": "socks",
+            "settings": {
+                "udp": true
+            },
+            "sniffing": {
+                "enabled": true,
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ]
+            }
+        }
+    ],
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "REPLACE_ME",
+                        "port": 443,
+                        "users": [
+                            {
+                                "id": "REPLACE_ME",
+                                "encryption": "none",
+                                "flow": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "xhttp",
+                "xhttpSettings": {
+                    "path": "/REPLACE_ME",
+                    "mode": "stream-one",
+                    "host": "REPLACE_ME"
+                },
+                "security": "tls",
+                "tlsSettings": {
+                    "serverName": "REPLACE_ME",
+                    "alpn": [
+                        "h2"
+                    ]
+                }
+            }
+        },
+        {
+            "tag": "direct",
+            "protocol": "freedom",
+            "settings": {}
+        },
+        {
+            "tag": "block",
+            "protocol": "blackhole",
+            "settings": {}
+        }
+    ],
+    "routing": {
+        "domainStrategy": "IPOnDemand",
+        "rules": [
+            {
+                "type": "field",
+                "ip": [
+                    "geoip:private"
+                ],
+                "outboundTag": "direct"
+            }
+        ]
+    }
+}
