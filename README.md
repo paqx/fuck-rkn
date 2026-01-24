@@ -1,12 +1,12 @@
-# Fuck RKN
+# Bypass Mobile Restrictions
 
 ## Installation
 
 1. **Clone the repo and submodules. The cd into the directory:**
    ```bash
-   git clone https://github.com/paqx/fuck-rkn.git
+   git clone https://github.com/paqx/bypass-mobile-restrictions.git
    git submodule update --init --recursive --remote --no-fetch --depth=1
-   cd fuck-rkn/
+   cd bypass-mobile-restrictions/
    ```
 
 2. **Create and activate a Python virtual environment:**:
